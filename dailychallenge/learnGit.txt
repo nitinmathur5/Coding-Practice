@@ -1,7 +1,4 @@
-
+Initial commit
 Edit the file to make 2nd commit
 Edit the file to make 3rd commit
-
-Edit the file to make 4th commit
-
-
+Edit the file for4th commit
