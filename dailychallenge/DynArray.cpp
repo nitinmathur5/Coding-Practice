@@ -1,5 +1,5 @@
 /*Implement a dynamic array*/
-#include "test1.h"
+#include "DynArray.h"
 
 int myArraySize  = 0;
 int myCurrentIdx = 0;
