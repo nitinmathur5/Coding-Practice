@@ -1,4 +1,5 @@
 //Implement a stack in an array; methods to implement, push, pop and peek and getMin in O(1) completxity (space and time)
+//Changed the name of the file
 
 #include <stdio.h>
 #include <stdlib.h>
